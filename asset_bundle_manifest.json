@@ -1,0 +1,10 @@
+﻿{
+  "version": "0.1",
+  "bundles": [
+    {
+      "name": "001",
+      "url": "https://drive.google.com/uc?export=download&id=1A2B3C4D5E",
+      "crc": 123456
+    }
+  ]
+}
