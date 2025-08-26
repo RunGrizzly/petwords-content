@@ -3,9 +3,10 @@
   "bundles":[
     {
       "name": "001",
-      "url": "https://github.com/RunGrizzly/petwords-content/raw/refs/heads/main/AssetBundles",
+      "url": "https://github.com/RunGrizzly/petwords-content/raw/refs/heads/main/testpuzzles_001.dwd",
       "crc": 123456
     }
   ]
 }
+
 
