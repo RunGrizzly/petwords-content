@@ -1,11 +1,11 @@
 ﻿{
   "version": "0.1",
-  "bundles": [
+  "bundles":
+   [
     {
       "name": "001",
       "url": "https://github.com/RunGrizzly/petwords-content/raw/refs/heads/main/AssetBundles",
       "crc": 123456
     }
   ]
-
 }
