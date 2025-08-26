@@ -1,7 +1,6 @@
 ﻿{
   "version": "0.2",
-  "bundles":
-   [
+  "bundles":[
     {
       "name": "001",
       "url": "https://github.com/RunGrizzly/petwords-content/raw/refs/heads/main/AssetBundles",
@@ -9,4 +8,3 @@
     }
   ]
 }
-
