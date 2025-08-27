@@ -3,11 +3,12 @@
   "bundles":[
     {
       "name": "001",
-      "url": "https://github.com/RunGrizzly/petwords-content/raw/refs/heads/main/testpuzzles_001.dwd",
+      "url": "https://github.com/RunGrizzly/petwords-content/raw/refs/heads/main/testpuzzles_002",
       "crc": 123456
     }
   ]
 }
+
 
 
 
