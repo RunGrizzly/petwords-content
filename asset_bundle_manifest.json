@@ -3,11 +3,12 @@
   "bundles":[
     {
       "name": "OnelLevel",
-      "url": "https://rungrizzly.github.io/petwords-content/testpuzzles_001",
+      "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_001",
       "crc": 123456
     }
   ]
 }
+
 
 
 
