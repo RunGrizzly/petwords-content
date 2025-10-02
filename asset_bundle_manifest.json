@@ -2,9 +2,14 @@
   "version": "0.3",
   "bundles":[
     {
-      "name": "OnelLevel",
+      "name": "downloadA",
+      "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_001",
+      "selectionKey": "downloadA"
+    },
+    {
+      "name": "downloadB",
       "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_002",
-      "crc": 123456
+      "selectionKey": "downloadB"
     }
   ]
 }
