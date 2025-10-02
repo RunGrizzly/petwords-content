@@ -1,5 +1,5 @@
 ﻿{
-  "version": "0.3",
+  "version": "0.4",
   "bundles":[
     {
       "name": "downloadA",
@@ -10,6 +10,16 @@
       "name": "downloadB",
       "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_002",
       "selectionKey": "downloadB"
+    },
+    {
+      "name": "downloadC",
+      "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_003",
+      "selectionKey": "downloadC"
+    },
+    {
+      "name": "downloadD",
+      "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_004",
+      "selectionKey": "downloadD"
     }
   ]
 }
