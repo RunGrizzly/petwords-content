@@ -2,6 +2,11 @@
   "version": "0.4",
   "bundles":[
     {
+      "name": "core",
+      "url": "https://petwords-content-delivery.netlify.app/contents/core_data",
+      "selectionKey": "core"
+    },
+    {
       "name": "downloadA",
       "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_001",
       "selectionKey": "downloadA"
