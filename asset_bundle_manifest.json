@@ -1,30 +1,43 @@
 ﻿{
-  "version": "0.4",
+  //Version determines the date range
+"version": "1_1", //Year 1 //Quarter 1
   "bundles":[
     {
-      "name": "core",
+      "name": "1_1_core", //Core bundle for Year 1 Quarter 1
       "url": "https://petwords-content-delivery.netlify.app/contents/core_data",
       "selectionKey": "core"
     },
+    
+    //These use assets from the core bundle
     {
-      "name": "downloadA",
-      "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_001",
-      "selectionKey": "downloadA"
+      "name": "1_1_0", //Quaterly run
+      "url": "https://petwords-content-delivery.netlify.app/contents/1_1_0",
+      "selectionKey": "quarterly"
     },
     {
-      "name": "downloadB",
-      "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_002",
-      "selectionKey": "downloadB"
+      "name": "1_1_1", //Day 1
+      "url": "https://petwords-content-delivery.netlify.app/contents/1_1_1",
+      "selectionKey": "dailySet"
     },
     {
-      "name": "downloadC",
-      "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_003",
-      "selectionKey": "downloadC"
+      "name": "1_1_2", //Day 2 
+      "url": "https://petwords-content-delivery.netlify.app/contents/1_1_2",
+      "selectionKey": "dailySet"
     },
     {
-      "name": "downloadD",
-      "url": "https://petwords-content-delivery.netlify.app/contents/testpuzzles_004",
-      "selectionKey": "downloadD"
+      "name": "1_1_3", //Day 3
+      "url": "https://petwords-content-delivery.netlify.app/contents/1_1_3",
+      "selectionKey": "dailySet"
+    },
+    {
+      "name": "1_1_4", //Day 4
+      "url": "https://petwords-content-delivery.netlify.app/contents/1_1_4",
+      "selectionKey": "dailySet"
+    },
+    {
+      "name": "1_1_90", //Day 90
+      "url": "https://petwords-content-delivery.netlify.app/contents/1_1_90",
+      "selectionKey": "dailySet"
     }
   ]
 }
