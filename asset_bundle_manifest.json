@@ -1,42 +1,46 @@
 ﻿{
-  //Version determines the date range
-"version": "1_1", //Year 1 //Quarter 1
+"version": "1_1",
   "bundles":[
     {
-      "name": "1_1_core", //Core bundle for Year 1 Quarter 1
+      "name": "1_1_core",
       "url": "https://petwords-content-delivery.netlify.app/contents/core_data",
+      "dateKey": "Q1_2025",
       "selectionKey": "core"
     },
-    
-    //These use assets from the core bundle
     {
-      "name": "1_1_0", //Quaterly run
+      "name": "1_1_0",
       "url": "https://petwords-content-delivery.netlify.app/contents/1_1_0",
+      "dateKey": "Q1_2025",
       "selectionKey": "quarterly"
     },
     {
-      "name": "1_1_1", //Day 1
+      "name": "1_1_1",
       "url": "https://petwords-content-delivery.netlify.app/contents/1_1_1",
+      "dateKey": "Q1_2025",
       "selectionKey": "dailySet"
     },
     {
-      "name": "1_1_2", //Day 2 
+      "name": "1_1_2",
       "url": "https://petwords-content-delivery.netlify.app/contents/1_1_2",
+      "dateKey": "Q1_2025",
       "selectionKey": "dailySet"
     },
     {
-      "name": "1_1_3", //Day 3
+      "name": "1_1_3",
       "url": "https://petwords-content-delivery.netlify.app/contents/1_1_3",
+      "dateKey": "Q1_2025",
       "selectionKey": "dailySet"
     },
     {
-      "name": "1_1_4", //Day 4
+      "name": "1_1_4",
       "url": "https://petwords-content-delivery.netlify.app/contents/1_1_4",
+      "dateKey": "Q1_2025",
       "selectionKey": "dailySet"
     },
     {
-      "name": "1_1_90", //Day 90
+      "name": "1_1_90",
       "url": "https://petwords-content-delivery.netlify.app/contents/1_1_90",
+      "dateKey": "Q1_2025",
       "selectionKey": "dailySet"
     }
   ]
