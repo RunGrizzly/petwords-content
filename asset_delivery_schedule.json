@@ -1,6 +1,5 @@
 ﻿ {
-     "schedulePeriods":
-     [
+     "schedulePeriods":[
           {
              "key": "Q1_2025",
              "startDate": "2025-01-01T00:00:00Z",
