@@ -1,18 +1,22 @@
 ﻿{
   "schedulePeriods": {
     "Q1_2025": {
+      "key": "A key",
       "startDate": "2025-01-01T00:00:00Z",
       "endDate": "2025-03-31T23:59:59Z"
     },
     "Q2_2025": {
+      "key": "A key",
       "startDate": "2025-04-01T00:00:00Z",
       "endDate": "2025-06-30T23:59:59Z"
     },
     "Q3_2025": {
+      "key": "A key",
       "startDate": "2025-07-01T00:00:00Z",
       "endDate": "2025-09-30T23:59:59Z"
     },
     "Q4_2025": {
+      "key": "A key",
       "startDate": "2025-10-01T00:00:00Z",
       "endDate": "2025-12-31T23:59:59Z"
     }
