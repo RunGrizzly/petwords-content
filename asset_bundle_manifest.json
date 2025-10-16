@@ -6,44 +6,44 @@
     [
         {
           "ID": "core",
-          "url": "https://petwords-content-delivery.netlify.app/contents/core_data"
+          "url": "https://petwords-content-delivery.netlify.app/contents/q1_2025_core"
         },
         {
           "ID": "quarterly",
-          "url": "https://petwords-content-delivery.netlify.app/contents/quarterly_data"
+          "url": "https://petwords-content-delivery.netlify.app/contents/q1_2025_core"
         }
     ],
     "Q2_2025":
     [
       {
         "ID": "core",
-        "url": "https://petwords-content-delivery.netlify.app/contents/core_data"
+        "url": "https://petwords-content-delivery.netlify.app/contents/q1_2025_core"
       },
       {
         "ID": "quarterly",
-        "url": "https://petwords-content-delivery.netlify.app/contents/quarterly_data"
+        "url": "https://petwords-content-delivery.netlify.app/contents/q1_2025_core"
       }
     ],
     "Q3_2025":
     [
       {
         "ID": "core",
-        "url": "https://petwords-content-delivery.netlify.app/contents/core_data"
+        "url": "https://petwords-content-delivery.netlify.app/contents/q1_2025_core"
       },
       {
         "ID": "quarterly",
-        "url": "https://petwords-content-delivery.netlify.app/contents/quarterly_data"
+        "url": "https://petwords-content-delivery.netlify.app/contents/q1_2025_core"
       }
     ],
     "Q4_2025":
     [
       {
         "ID": "core",
-        "url": "https://petwords-content-delivery.netlify.app/contents/core_data"
+        "url": "https://petwords-content-delivery.netlify.app/contents/q1_2025_core"
       },
       {
         "ID": "quarterly",
-        "url": "https://petwords-content-delivery.netlify.app/contents/quarterly_data"
+        "url": "https://petwords-content-delivery.netlify.app/contents/q1_2025_core"
       }
     ]
   }
